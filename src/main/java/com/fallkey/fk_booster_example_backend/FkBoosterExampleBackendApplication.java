@@ -1,4 +1,4 @@
-package com.example.fkbooster.fk_booster_example_backend;
+package com.fallkey.fk_booster_example_backend;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
